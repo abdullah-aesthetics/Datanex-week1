@@ -105,7 +105,7 @@ The screenshot below shows the captured network traffic in Wireshark.
 
 The following screenshot shows the details of an analyzed packet, including its IP addresses, TCP protocol, and ports.
 
-![Packet Details](screenshots/packet-detail.png)
+![Packet Details](screenshots/packets-detail.png)
 
 ---
 
